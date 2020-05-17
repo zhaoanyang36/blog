@@ -143,3 +143,20 @@ friends: [
         href: "http://ingf.github.io/"
     }
 ]
+
+# Organizations
+organizations: [
+    {
+        title: "东北育才高中",
+        href: "https://www.neyc.cn/"
+    },{
+        title: "南开大学",
+        href: "https://www.nankai.edu.cn/"
+    },{
+        title: "宾夕法尼亚大学",
+        href: "https://www.design.upenn.edu/"
+    },{
+        title: "猿辅导",
+        href: "https://www.yuanfudao.com/"
+    }
+]
