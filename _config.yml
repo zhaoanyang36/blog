@@ -1,7 +1,7 @@
 # Site settings
 title: Anyang Blog
 SEOTitle: Anyang的博客 | Anyang Blog
-header-img: img/home-bg.jpg
+header-img: img/about-AY.jpg
 email: zhaoanyang36@163.com
 description: ""
 keyword: ""
@@ -13,12 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
+
 
 
 
