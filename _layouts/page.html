@@ -52,9 +52,24 @@ layout: default
 
                 <!-- Short About -->
                 {% include short-about.html %}
+		{% if site.email %}
+                <p>✉️ {{site.email}}</p>
+                {% endif %}
 
                 <!-- Friends Blog -->
                 {% include friends.html %}
+    		</div>
+                {% endif %}
+		
+		{% if site.organizations %}
+                <hr>
+                <h5>ORGANIZATIONS</h5>
+                <ul class="list-inline">
+                    {% for organization in site.organizations %}
+                        <li><a href="{{organization.href}}">{{organization.title}}</a></li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
     		</div>
         {% endif %}
 	</div>
