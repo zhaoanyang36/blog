@@ -7,6 +7,7 @@ description: ""
 keyword: ""
 url: "http://zhaoanyang36.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/zhaoanyang36/zhaoanyang36.github.io"
 
 # Publish posts or collection documents with a future date.
 future: true
