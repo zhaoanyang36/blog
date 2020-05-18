@@ -422,7 +422,20 @@ title: "作品集"
   <!-- Copyright Section -->
   <section class="copyright py-4 text-center text-white">
     <div class="container">
-      <small>Copyright &copy; Hanyong Xu 2020. Built with <i class="fa fa-heart" aria-hidden="true"></i></small>
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          <p class="copyright text-muted">
+            Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}
+            <br>
+            Theme on <a href="{{ site.github_repo }}">GitHub</a> |
+            <iframe
+                    style="margin-left: 2px; margin-bottom:-5px;"
+                    frameborder="0" scrolling="0" width="100px" height="20px"
+                    src="https://ghbtns.com/github-btn.html?user={{ site.github_username }}&repo={{ site.github_username }}.github.io&type=star&count=true" >
+            </iframe>
+          </p>
+        </div>
+      </div>
     </div>
   </section>
 
