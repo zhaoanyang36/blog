@@ -18,6 +18,7 @@ Hi，我是赵安洋，职业是一名产品经理。
 
 搭建此blog的另一个意义是激励自己时刻保持虚心学习的精神，记录知识，记录思考。坚持自己感兴趣的方向的研究。
 如果你对我的经历感兴趣或者有产品方向职业的机会，请联系我😀
+
 🎉本博客及作品集的搭建感谢以下作者提供的模板：
  - [HUX](https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md)
  - [Freelancer](https://startbootstrap.com/themes/freelancer/)
